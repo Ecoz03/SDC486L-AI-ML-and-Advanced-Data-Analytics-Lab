@@ -1,7 +1,9 @@
 📘 Instacart Behavioral Modeling & Scenario Analysis
+
 A Data Preparation, Machine Learning, and Scenario Simulation Project
 
 📌 Overview
+
 This project explores customer purchasing behavior using the Instacart Online Grocery Basket Analysis Dataset. The goal is to prepare the data, engineer meaningful features, build predictive models, and simulate real‑world behavioral scenarios to understand how customer habits shift under different conditions.
 
 The analysis includes:
@@ -21,6 +23,7 @@ Scenario simulations (Holiday Rush, Economic Slowdown, Back‑to‑School)
 Visualizations integrated into a Power BI dashboard
 
 Dataset link:
+
 https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
 
 📂 Project Structure
@@ -50,7 +53,9 @@ Under financial strain, customers delay purchases, reduce basket variety, and fo
 Families shop earlier and diversify their baskets with snacks, cleaning supplies, and quick meals. Reorder probability declines moderately due to temporary shifts in basket composition. Clustering results show that customer personas remain well‑defined, demonstrating stable segmentation even when seasonal behavior changes.
 
 🧠 Methods & Techniques
+
 Data Preparation
+
 Merging Instacart datasets
 
 Handling missing values
@@ -62,6 +67,7 @@ Scaling numerical features
 Feature engineering for time‑based and behavioral attributes
 
 Modeling
+
 Classification Model: Logistic Regression
 
 Regression Model: Linear Regression
@@ -71,12 +77,15 @@ Dimensionality Reduction: Autoencoder (Keras/TensorFlow)
 Clustering: K‑Means with silhouette scoring
 
 Scenario Simulation
+
 Behavioral variables (order timing, basket size, product diversity, etc.) were modified to simulate real‑world conditions. The models were then re‑evaluated to measure changes in reorder probability and cluster structure.
 
 📦 Dependencies
+
 This project uses the following Python libraries:
 
 Core:
+
 pandas
 
 numpy
@@ -86,11 +95,13 @@ datetime
 IPython.display (Markdown, display)
 
 Visualization:
+
 matplotlib
 
 seaborn
 
 Machine Learning (scikit‑learn):
+
 LabelEncoder
 
 StandardScaler
@@ -126,6 +137,7 @@ Metrics -
   r2_score
 
 Deep Learning (TensorFlow / Keras):
+
 Sequential
 
 Model
@@ -139,6 +151,7 @@ Input
 Adam optimizer
 
 ▶️ How to Run the Project
+
 1. Download the dataset
 Download from Kaggle and place all CSV files into a folder named data/ or update the file paths in the notebook.
 
@@ -146,11 +159,15 @@ Download from Kaggle and place all CSV files into a folder named data/ or update
 Install the required libraries using pip:
 
 Code
+
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow ipython
+
 3. Open the notebook
-Code
+
 jupyter notebook Project.ipynb
+
 4. Run all cells
+
 The notebook will:
 
 Load and clean the data
@@ -168,6 +185,7 @@ Simulate all three scenarios
 Generate visualizations
 
 📊 Power BI Dashboard
+
 A Power BI dashboard accompanies this project and includes:
 
 EDA summary
@@ -183,9 +201,13 @@ An interactive index page for navigation
 Screenshots or the .pbix file may be included in the PowerBI/ folder.
 
 📄 License
+
 This project is for academic use as part of coursework at ECPI University.
 
 🙋‍♀️ Author
+
 Jessie Marie Sosniak  
+
 Software Development (AI/ML & Data Analytics)
+
 ECPI University, 2026
