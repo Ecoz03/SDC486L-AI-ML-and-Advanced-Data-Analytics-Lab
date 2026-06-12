@@ -30,11 +30,11 @@ https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis
 
 Code
 
-├── notebook.ipynb           # Main Jupyter Notebook containing all analysis
+├── Project.ipynb            # Main Jupyter Notebook containing all analysis
 
 ├── PowerPoint               # PowerPoint Presentation
 
-├── PowerBI/                 # PowerBI file
+├── Project.pbix             # PowerBI file
 
 └── README.md                # Project documentation
 
