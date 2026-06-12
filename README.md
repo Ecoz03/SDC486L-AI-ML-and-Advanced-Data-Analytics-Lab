@@ -39,6 +39,7 @@ Customers vary widely in how frequently they shop. The dataset includes days_sin
 Customers exhibit different shopping behaviors. Some buy mostly fresh foods, others buy pantry staples, some shop late at night, others only on weekends. Clustering can reveal natural groupings. Clustering helps to build targeted marketing segments, personalize product recommendations, improve app layout for different shopper types, and understand macro-level behavioral patterns.
 
 🔍 Summary of Findings
+
 ⭐ Scenario 1 – Holiday Rush
 During high‑traffic holiday periods, customers shop later in the day, place more frequent orders, and prioritize convenience items such as snacks and beverages. These shifts reduce reorder probability as shoppers explore new or one‑time products. The model captures this disruption in normal purchasing patterns, showing a measurable decline in repeat‑purchase likelihood.
 
