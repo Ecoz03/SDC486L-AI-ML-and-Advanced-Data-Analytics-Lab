@@ -27,10 +27,15 @@ Dataset link:
 https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
 
 📂 Project Structure
+
 Code
+
 ├── notebook.ipynb           # Main Jupyter Notebook containing all analysis
+
 ├── PowerPoint               # PowerPoint Presentation
+
 ├── PowerBI/                 # PowerBI file
+
 └── README.md                # Project documentation
 
 Analytical Tasks:
