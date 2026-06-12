@@ -30,13 +30,13 @@ https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis
 
 Code
 
-├── Project.ipynb            # Main Jupyter Notebook containing all analysis
+├── Project.ipynb                                                # Main Jupyter Notebook containing all analysis
 
-├── PowerPoint               # PowerPoint Presentation
+├── Comprehensive Final Report & Presentation.pptx               # PowerPoint Presentation
 
-├── Project.pbix             # PowerBI file
+├── Project.pbix                                                 # PowerBI file
 
-└── README.md                # Project documentation
+└── README.md                                                    # Project documentation
 
 Analytical Tasks:
 1.	Classification Issue: Predicting Reorder Likelihood
